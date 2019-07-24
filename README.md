@@ -6,10 +6,12 @@
 
 for running server for this project
 
-backend //
+frontend //
+
+python start.py -n install // for installing frontend dependencies
 
 python start.py -n start
 
-frontend
+backend
 
 python start.py -p runserver
